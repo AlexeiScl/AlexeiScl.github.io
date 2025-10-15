@@ -6,8 +6,8 @@ redirect_from:
  - /about/
  - /about.html
  ---
-
-Alexei Sclearenco
+ 
+ Alexei Sclearenco
 Abingdon, Maryland • 4435878621• alexeisclearenco@gmail.com 
   
 Education 
