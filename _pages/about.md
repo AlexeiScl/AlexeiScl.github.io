@@ -4,8 +4,8 @@ title: "Alexei Sclearenco"
 author_profile: true
 redirect_from:
  - /about/
- - /about.html1
----
+ - /about.html
+ ---
 
 Alexei Sclearenco
 Abingdon, Maryland • 4435878621• alexeisclearenco@gmail.com 
