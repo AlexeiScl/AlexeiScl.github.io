@@ -50,6 +50,6 @@ Sports & Athletics
 Awards 
 •	Academic: Quarterly Honor Roll
 
-Portfolio Projects:
-A Java - based calendar, which uses JFramaes and a complete UI to show the calendar!
-https://github.com/AlexeiScl/JavaCalendar/tree/19e3799d1cbdf649e30c9653a5539c396c511bed/CalendarProject
+Portfolio Projects:  
+A Java-based calendar, which uses JFrame and a complete UI to show the calendar!  
+[Java Calendar Project](https://github.com/AlexeiScl/JavaCalendar/tree/19e3799d1cbdf649e30c9653a5539c396c511bed/CalendarProject)
